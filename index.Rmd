@@ -67,8 +67,12 @@ xaringanExtra::style_panelset_tabs(
 ## Consideraciones para el uso adecuado de la presentación
 
   1.	<p align="justify">Dar click en la letra <b>H</b> o en el símbolo <b>?</b> para desplegar las distintas <b>opciones de navegación</b> que ofrece la presentación.</p>
+
+  2.	<p align="justify">Dar click en la letra <b>o</b> para desplegar el total de diapositivas de la presentación.</p>
   
-  2.	<p align="justify">Si uno o más objetos gráficos presentan algún grado de desconfiguración/deformación, recargar las presentación dando click en la tecla  <b>F5</b> si nos encontramos en un PC o directamente desde la barra del navegador.</p>
+  3.	<p align="justify">Dar click en la letra <b>w</b> para incluir la cámara dentro de la presentación. Oprimir <b>Shift + w</b> para reubicar la posición de la cámara.</p>
+  
+  4.	<p align="justify">Si uno o más objetos gráficos presentan algún grado de desconfiguración/deformación, recargar las presentación dando click en la tecla  <b>F5</b> si nos encontramos en un PC o directamente desde la barra del navegador.</p>
 
 ---
 ## Contenido
