@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+a, a > code {
+  text-decoration: underline;
+  font-size: 25px;
+  font-style: italic;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+ul,ol,dl, p, a {
+  font-size: 25px;
+  color: rgb(89,89,89)
+}
+
+
+body {
+  font-family: 'Roboto', 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', sans-serif;
+}
+
+.duke-orange {
+  background-color: #F09905;
+}
+
+.duke-orange a, .dk_orange a > code {
+  color: rgb(6,128,205);
+  text-decoration: none;
+}
+
+.duke-orange h1, .duke-orange h2, .duke-orange h3 {
+  color: #001A57;
+  line-height: 0.8em;
+  text-shadow: 0 0 10px #666666;
+}
+
+.duke-softblue {
+  background-color: #339999;
+  color: #FFD960;
+}
+
+.duke-softblue a, .duke-softblue a > code {
+  /* color: rgb(153,50, 153); */
+  color: rgb(19,2,131);
+  text-decoration: none;
+}
+.duke-softblue h1, .duke-softblue h2, .duke-softblue h3 {
+  color: #001A57;
+  line-height: 0.8em;
+  text-shadow: 0 0 10px #728302;
+}
+
+.duke-green {
+  background-color: #728302;
+  /* color: #FFD960; */
+}
+.duke-green h1, .duke-green h2, .duke-green h3 {
+  color: #001A57;
+  line-height: 0.8em;
+  text-shadow: 0 0 10px #FFD960;
+}
+
+.duke-green a, .duke-green a > code {
+  color: rgb(19,2,131);
+  text-decoration: none;
+}
+
+.inverse {
+  background-color: #003366;
+  color: #B5B5B5;
+  text-shadow: 0 0 20px #728302;
+  /* 001A57 728302*/
+}
+
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #B5B5B5;
+  line-height: 0.8em;
+}
+
+.imageTop {
+  vertical-align: top;
+}
+
+.extralarge { font-size: 200% }
+
+.large { font-size: 130% }
+
+.small { font-size: 70% }
+
+.red { color: red; }
+
+.orange { color: #E03A00;}
+
+.remark-inline-code{
+  background: #e7e8e2;
+  border-radius: 3px;
+  padding: 4px;
+}
+
+.remark-slide-number {
+  font-size: 14pt;
+  margin-bottom: 6.6px;
+  margin-right: 10px;
+  color: rgb(6,128,205); /* azul */
+  opacity: 1; /* Por defecto: 0.5 */
+}
+
+.mititulo .remark-slide-number {
+   display: none; 
+} 
+
+.micuerpo {
+  background-image: url("imagenes/Cuerpo.png");
+  background-position: center;
+  background-size: cover;
+  padding-top: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+/* .micuerpo .remark-slide-number {  display: none;} */
+
+.nivelespecial {
+  font-size: 42px;
+}
+
+.niveluno {
+  font-family: 'Roboto', serif;
+  font-weight: normal;
+  font-size: 30px;
+  color: #172B7E;
+}
+
+.niveldos {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 19px;
+  color: #172B7E;
+  line-height: 0;
+}
+
+.facultad {
+  position: absolute;
+  bottom: 3.2em;
+  padding-right: 4em;
+  font-size: 11px;
+  color: rgb(242,230,204);
+}
+
+.sede {
+  position: absolute;
+  bottom: 2em;
+  padding-right: 4em;
+  font-size: 11px;
+  color: rgb(242,230,204);
+}
+
+.titulo {
+  position: absolute;
+  bottom: 60%;
+  left: 2em;
+  right: 2em;
+  font-size: 45px;
+  color: #172B7E;
+}
+
+.titulo_sub {
+  position: absolute;
+  bottom: 53%;
+  left: 5em;
+  right: 5em;
+  font-size: 20px;
+  color: rgb(127,127,127);
+}
+
+.titulo_info {
+  position: absolute;
+  bottom: 30%;
+  left: 5em;
+  right: 5em;
+  font-size: 20px;
+  color: #172B7E;
+}
+
+
+.remark-slide-number {
+  position: inherit;
+}
+
+.remark-slide-number .progress-bar-container {
+  position: absolute;
+  bottom: 0;
+  height: 5px;
+  display: block;
+  left: 0;
+  right: 0;
+}
+
+.remark-slide-number .progress-bar {
+  height: 100%;
+  background-color: #E03A00;
+}
