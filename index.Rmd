@@ -416,7 +416,7 @@ class: inverse, center, middle
 # ¡Muchas gracias!
 <br>
 ## El contenido de esta presentación se encuentra disponible en:<br>
-[https://estadisticaun.github.io/DAFP_tecnologia/#1](https://estadisticaun.github.io/DAFP_tecnologia/#1)
+[https://estadisticaun.github.io/UIS_gestion/#1](https://estadisticaun.github.io/UIS_gestion/#1)
 <br>
 ## Información de contacto:
 Nombre: Alberto Rodríguez R <br>
