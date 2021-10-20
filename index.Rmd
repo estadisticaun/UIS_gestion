@@ -15,13 +15,15 @@ output:
       countIncrementalSlides: false
     # includes:
     #   after_body: libs/unal/html/scripts.html
-    #   in_header: libs/unal/html/style.html      
+    #   in_header: libs/unal/html/style.html   
+   
 ---
-count: false
-background-image: url("imagenes/Portada1.png")
+count: none
+background-image: url("Imagenes/Portada1.png")
 background-position: center
 background-size: cover
 class: mititulo
+
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE,  htmltools.preserve.raw = FALSE)
